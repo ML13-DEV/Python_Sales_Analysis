@@ -149,7 +149,7 @@ This may indicate:
 ✔️ Exporting full results into Excel and SQL  
 ✔️ Multiple professional visualizations  
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Manuel Lombardi
 Data Analyst & Software Developer
