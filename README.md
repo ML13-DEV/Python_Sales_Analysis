@@ -32,6 +32,17 @@ Using Python, SQL, and data visualization, the analysis reveals market patterns,
 
 This dataset represents official sales reported by fuel and energy companies across the country.
 
+### 📥 Dataset
+This dataset is too large to upload to GitHub.
+
+You can download it from:
+[https://drive.google.com/xxxxx](https://drive.google.com/drive/folders/1njJl_u3z1BRBrVhyRU9Rgt4oju3qniPJ?usp=drive_link)
+
+Once downloaded, place it inside:
+
+project/data/ventas-a-empresas-del-sector.csv
+
+
 ---
 
 ## 🛠️ Technologies Used
