@@ -48,21 +48,21 @@ SQLAlchemy
 
 MariaDB / MySQL
 
-🗂️ Project Structure
-1project/
-1.1data/
-   1.1.1 ventas-a-empresas-del-sector.csv     # Raw dataset
+🗂️ Project Structure  
+1project/  
+1.1 data/  
+   1.1.1 ventas-a-empresas-del-sector.csv     # Raw dataset  
 
-1.2 functions/
-   1.2.1 stats_functions.py                   # SQL queries + business logic
-   1.2.2 plot_functions.py                    # Visualization functions
-   1.2.3 db.py                            # Connection to the database
-   1.2.3 db.py                            # Function to export a dataframe to an excel file
+1.2 functions/  
+   1.2.1 stats_functions.py                   # SQL queries + business logic  
+   1.2.2 plot_functions.py                    # Visualization functions  
+   1.2.3 db.py                            # Connection to the database  
+   1.2.3 db.py                            # Function to export a dataframe to an excel file  
 
-1.3 reports/
-   1.3.1 figures/                             # Generated charts
-   1.3.2 excel/                              # Exported Excel summaries
-   1.3.3 sql_tables/                          # SQL table exports
+1.3 reports/  
+   1.3.1 figures/                             # Generated charts  
+   1.3.2 excel/                              # Exported Excel summaries  
+   1.3.3 sql_tables/                          # SQL table exports  
 
 
 🔍 Key Insights Identified
